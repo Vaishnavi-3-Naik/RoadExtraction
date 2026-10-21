@@ -1,3 +1,6 @@
+https://road-ai-pearl.vercel.app/
+
+
 # RoadAI Road Extraction with U-Net
 
 Memory-efficient TensorFlow/Keras road segmentation for the Massachusetts Roads Dataset. Images are paired with masks by exact filename stem and decoded lazily from TIFF/GeoTIFF files using Rasterio, with OpenCV fallback.
